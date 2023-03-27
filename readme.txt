@@ -6,6 +6,6 @@ Step 3- Edit as per your wish and Enjoy!!
 
 
 
-if you want to ask me anything contact me on my instagram
-@alleem_anwar
+if you want to ask me anything contact me on my instagram- https://www.instagram.com/cvision_python/
+
 Thanks For downloading! Love you ♥
