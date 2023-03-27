@@ -1,0 +1,33 @@
+Download Haar Cascade Frontal Face:
+
+Go to the OpenCV website: https://opencv.org/
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+Click on the "Download" tab in the top menu bar
+Select the appropriate version of OpenCV for your operating system and download it
+Once downloaded, extract the files to a location on your computer
+Copy and paste your face tracking code:
+
+Open a new Python file in your preferred editor
+Copy and paste your face tracking code into the new file
+Save the file with a meaningful name
+Download PySerial:
+
+Go to the PySerial website: https://pyserial.readthedocs.io/en/latest/pyserial.html
+Click on the "Installation" tab in the left-hand menu
+Follow the installation instructions for your operating system
+Once installed, you should be able to import the PySerial module in your Python code
+Copy and paste your Arduino code:
+
+Open the Arduino IDE
+Copy and paste your Arduino code into a new sketch
+Save the sketch with a meaningful name
+Connect two servos to pin 5,6:
+
+Connect the ground pin of each servo to a ground pin on the Arduino
+Connect the power pin of each servo to a 5V pin on the Arduino
+Connect the signal pin of the first servo to pin 5 on the Arduino
+Connect the signal pin of the second servo to pin 6 on the Arduino
+Enjoy your face tracking project:
+
+Upload the Arduino sketch to the Arduino board
+Run your Python code and enjoy watching your servos track your face!
